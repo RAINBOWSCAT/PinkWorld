@@ -32,7 +32,7 @@
     </a>
   </h3>
   <sub>
-    Available for Windows.
+    Available for Minecraft Forge 1.16.5 .
     <br>
     <a href="https://github.com/rainbowscat/PinkWorld">en-us</a> | <a href="https://github.com/rainbowscat/PinkWorld">中文</a>
 </sub>
