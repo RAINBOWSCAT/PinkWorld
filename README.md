@@ -36,10 +36,12 @@
     <br>
     <a href="https://github.com/rainbowscat/PinkWorld">en-us</a> | <a href="https://github.com/rainbowscat/PinkWorld">中文</a>
 </sub>
+</div> 
+<h1 align="center">The first beta is released now!</h1>
 
-## The first beta is released now!
+<h3 align="center">Update Cycle: Every Sunday(UTC+8)</h3>
+<hr>
 
-# Update Cycle: Every Sunday(UTC+8)
+### Todo
 
-# Todo
-[ ] 1.19.1 available.
+- [ ] 1.19.1 available.
