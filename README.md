@@ -38,3 +38,8 @@
 </sub>
 
 ## The first beta is released now!
+
+# Update Cycle: Every Sunday(UTC+8)
+
+# Todo
+[ ] 1.19.1 available.
