@@ -37,4 +37,4 @@
     <a href="https://github.com/rainbowscat/PinkWorld">en-us</a> | <a href="https://github.com/rainbowscat/PinkWorld">中文</a>
 </sub>
 
-## The first beta will be released on October 14, 2023 at 10:30 UTC+8.
+## The first beta will be released on October 14, 2023 at 11:35 UTC+8.
