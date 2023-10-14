@@ -37,7 +37,7 @@
     <a href="https://github.com/rainbowscat/PinkWorld">en-us</a> | <a href="https://github.com/rainbowscat/PinkWorld">中文</a>
 </sub>
 </div> 
-<h1 align="center">The first beta is released now!</h1>
+<h1 align="center">The first Alpha is released now!</h1>
 
 <h3 align="center">Update Cycle: Every Sunday(UTC+8)</h3>
 <hr>
