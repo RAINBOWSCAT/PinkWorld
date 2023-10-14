@@ -4,7 +4,7 @@
   <a href="mailto:whitecat.this@gmail.com">
     <img src="https://img.shields.io/badge/AUTHOR-RAINBOWSCAT-brightgreen" alt="AUTHOR">
   </a>
-  <a href="https://github.com/rainbowscat/PinkWorld/">
+  <a href="https://github.com/rainbowscat/PinkWorld/releases/latest">
     <img src="https://img.shields.io/badge/VERSION-PreAnnoucement-ff69b4" alt="Latest Download">
   </a>
   <a href="https://github.com/rainbowscat/PinkWorld/blob/master/LICENSE">
@@ -23,11 +23,11 @@
       Website
     </a>
     <span> | </span>
-    <a href="#description">
-      Description
+    <a href="#Todo">
+      TODO
     </a>
     <span> | </span>
-    <a href="https://github.com/rainbowscat/PinkWorld">
+    <a href="https://github.com/rainbowscat/PinkWorld/releases/">
       Downloads
     </a>
   </h3>
@@ -45,3 +45,6 @@
 ### Todo
 
 - [ ] 1.19.1 available.
+
+
+### If you attend to project or other [email me](mailto:3245567560@qq.com).
