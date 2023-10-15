@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/AUTHOR-RAINBOWSCAT-brightgreen" alt="AUTHOR">
   </a>
   <a href="https://github.com/rainbowscat/PinkWorld/releases/latest">
-    <img src="https://img.shields.io/badge/VERSION-PreAnnoucement-ff69b4" alt="Latest Download">
+    <img src="https://img.shields.io/badge/VERSION-PerRelease-ff69b4" alt="Latest Download">
   </a>
   <a href="https://github.com/rainbowscat/PinkWorld/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-Apache_2.0-blue" alt="LICENSE">
